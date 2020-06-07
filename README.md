@@ -42,7 +42,7 @@ Legend
 < > other hand than QWERTY
 ```
 
-## Qwickly
+## Qwickly (max)
 
 Final tweak rotate-swap letters: `K`->`Y`->`P`<br/>
 and swap letters: `J`<->`B`
