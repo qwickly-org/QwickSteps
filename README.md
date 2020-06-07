@@ -17,7 +17,7 @@ We use `-`, `=` more than `[`, `]` so swap them too.
 
 Legend
     same as QWERTY
-( ) same finger
+( ) same finger as QWERTY
 ```
 
 ## Qwickly II
@@ -35,9 +35,9 @@ rotate-swap with letters: `D`, `P`
 
 Legend
     same as QWERTY
-( ) same finger
-[ ] same hand
-< > other hand
+( ) same finger as QWERTY
+[ ] same hand as QWERTY
+< > other hand than QWERTY
 ```
 
 ## Qwickly
@@ -55,7 +55,7 @@ and swap letters: `J`<->`B`
 
 Legend
     same as QWERTY
-( ) same finger
-[ ] same hand
-< > other hand
+( ) same finger as QWERTY
+[ ] same hand as QWERTY
+< > other hand than QWERTY
 ```
