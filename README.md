@@ -4,7 +4,7 @@ An easy to learn keyboard layout that's fast and comfortable to type.
 ## Qwickly I
 
 Swap frequently occuring letters: `E`, `T`, `N`, `I`, `O`, `P` \
-with letters above (or below) them: `D`, `F`, `J`, `K`, `L`, `;` \
+with letters above or below them: `D`, `F`, `J`, `K`, `L`, `;` \
 We use `-`, `=` more than `[`, `]` so swap them too.
 ```
 1   2   3   4   5   6   7   8   9   0  ([) (])  bksp
