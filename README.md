@@ -1,4 +1,4 @@
-# Qwickly - The (quick to learn, quick to type) Keyboard Layout
+# Qwickly - The (quick to learn + type) Keyboard Layout
 
 An installer for all macOS/OS X versions is available: [download Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)<br/>
 Created using [Ukelele software](https://software.sil.org/ukelele).
