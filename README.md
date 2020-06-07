@@ -47,7 +47,7 @@ and swap letters: `J`<->`B`
 ```
 1   2   3   4   5   6   7   8   9   0  ([) (])  bksp
 
- Q   W  <U> [D] (F) [K] [Y] [P] (L) (;) (-) (=)  \
+ Q   W  <U> [D] (F) [K] (Y) [P] (L) (;) (-) (=)  \
 
   A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
 
