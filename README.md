@@ -3,7 +3,6 @@ An easy to learn keyboard layout that's fast and comfortable to type.
 
 ## Qwickly I
 
-Close to QWERTY for speed of learning. \
 Swap frequent letters: `E`, `T`, `N`, `I`, `O`, `P` \
 with letters above (or below) them: `D`, `F`, `J`, `K`, `L`, `;` \
 We use `-`, `=` more than `[`, `]` so swap them too.
