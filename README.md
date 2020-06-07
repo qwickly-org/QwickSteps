@@ -1,6 +1,8 @@
 # Qwickly
 An easy to learn keyboard layout that's fast and comfortable to type.
 
+An installer for all macOS/OS X versions is available: [download Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)
+
 ## Qwickly I
 
 Swap frequently occuring letters: `E`, `T`, `N`, `I`, `O`, `P` \
