@@ -42,7 +42,7 @@ Legend
 < > other hand than QWERTY
 ```
 
-You could reasonably stop here as huge gains have been made over QWERTY.<br/>
+You can just stop right here as huge gains have been made over QWERTY.<br/>
 Taking this path to its logical conclusion we can add a few more tweaks, if you so choose.
 
 ## Qwickly (max)
