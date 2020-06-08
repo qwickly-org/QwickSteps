@@ -17,7 +17,7 @@ We use `-`, `=` more than `[`, `]` so swap them too.
 
   A   S  (E) (T)  G   H  (N) (I) (O) (P)  '   enter
 
-   Z   X   C   V   B  (J)  M   ,   .   /
+   Z   X   C   V   B   (J)  M   ,   .   /
 
 Legend
     same as QWERTY
@@ -35,7 +35,7 @@ rotate-swap with letters: `D`, `P`
 
   A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
 
-   Z   X   C   V   B  (J)  M   ,   .   /
+   Z   X   C   V   B   (J)  M   ,   .   /
 
 Legend
     same as QWERTY
