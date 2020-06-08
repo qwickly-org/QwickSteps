@@ -1,5 +1,7 @@
 # Qwickly - The 'quick to learn/type' Keyboard Layout
 
+Easier to learn than Minimak, faster than Dvorak, and your shortcuts stay put (except 'U' and 'R').
+
 An installer for all macOS/OS X versions is available: [download Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)<br/>
 Created using [Ukelele software](https://software.sil.org/ukelele).
 
