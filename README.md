@@ -88,7 +88,6 @@ Benchmarks
     Binary     59.05    52.23     54.23     51.51     52.70
     Lorem      57.06    53.30     51.61     48.29     54.55
     Game       38.86    36.85     35.35     34.56     36.04
-    Punct.      6.63     6.63      5.96      6.63      6.63
 ```
 
 Clearly Colemak stands out as expected. Looks like Qwickly edges out Asset.<jd/>
