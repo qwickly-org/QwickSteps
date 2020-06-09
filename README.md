@@ -67,6 +67,7 @@ Legend
 ( ) same finger as QWERTY
 [ ] same hand as QWERTY
 { } either same/other hand as QWERTY (depending on your typing style)
+< > other hand than QWERTY
 ```
 
 Benchmarks
