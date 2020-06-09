@@ -60,13 +60,13 @@ and swap letters: `J`<->`B`
 
   A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
 
-   Z   X   C   V  <J>  <B>  M   ,   .   /
+   Z   X   C   V  {J}  {B}  M   ,   .   /
 
 Legend
     same as QWERTY
 ( ) same finger as QWERTY
 [ ] same hand as QWERTY
-< > other hand than QWERTY
+{ } either same/other hand than QWERTY (depending on your typing style)
 ```
 
 Benchmarks
