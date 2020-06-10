@@ -49,7 +49,7 @@ In fact this is at the level of Dvorak or Asset layouts (give and take) when com
 
 Taking this design to its logical conclusion we can add a few tweaks more, if you so choose.
 
-## Qwickly (max)
+## Qwickly *(full)*
 
 Final tweak rotate-swap letters: `K`->`Y`->`P`<br/>
 and swap letters: `J`<->`B`
@@ -69,6 +69,28 @@ Legend
 { } either same-finger/other-hand as QWERTY (depending on your typing style)
 < > other hand than QWERTY
 ```
+
+## Qwickly (Niro)
+
+Alternative to **Qwickly (full)** also swap letters: `R`<->`O` <br/>
+This layout is often a bit faster than Quickly but have to learn new `O` finger/position.
+```
+1   2   3   4   5   6   7   8   9   0  ([) (])  bksp
+
+ Q   W  <U> [D] (F) [K] (Y) [P] (L) (;) (-) (=)  \
+
+  A   S  (E) (T)  G   H  (N) (I) <R> [O]  '   enter
+
+   Z   X   C   V  {J}  {B}  M   ,   .   /
+
+Legend
+    same as QWERTY
+( ) same finger as QWERTY
+[ ] same hand as QWERTY
+{ } either same-finger/other-hand as QWERTY (depending on your typing style)
+< > other hand than QWERTY
+```
+
 
 Benchmarks
 ```
