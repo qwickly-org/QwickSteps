@@ -60,7 +60,7 @@ Taking this design to its logical conclusion we can add a few tweaks more, if yo
 
 ## Qwickly
 
-Final tweak rotate-swap letters: `K`->`Y`->`P`<br/>
+Final tweak rotate-swap letters: `K`/`L`<- , ->`P`/`Y`<br/>
 and swap letters: `J`<->`B`
 ```
  Q   W  <U> [D] (F) [K] [L] [P] [Y] (;)  [   ]   \
@@ -79,10 +79,11 @@ Legend
 
 ## Qwickly (Niro)
 
-Alternative to **Qwickly** also swap letters: `R`<->`O` <br/>
-This layout is often a bit faster than Quickly but have to learn new `O` finger/position.
+Alternative to **Qwickly** instead rotate-swap letters: `K`/`P`/`Y`<br/>
+and swap letters: `J`<->`B` and `R`<->`O`<br/>
+This layout is often a touch faster than Quickly but have to learn new `O` finger/position.
 ```
- Q   W  <U> [D] (F) [K] (Y) [P] (L) (;)  [   ]   \
+ Q   W  <U> [D] (F) [K] [P] [Y] (L) (;)  [   ]   \
 
   A   S  (E) (T)  G   H  (N) (I) <R> [O]  '   enter
 
