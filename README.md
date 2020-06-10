@@ -3,7 +3,7 @@
 Easier to learn than Minimak, faster than Dvorak, and your shortcuts (mostly) stay put.
 
 ### Installer for all macOS/OS X versions
-- Qwickly, Qwickly I, Qwickly II, and Qwickly (Niro) [Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)
+- Qwickly with I, II, and Qwickly (Niro) [Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)
 
 Created using [Ukelele software](https://software.sil.org/ukelele).
 
