@@ -55,7 +55,7 @@ In fact this is at the level of Dvorak or Asset layouts (give and take) when com
 
 Taking this design to its logical conclusion we can add a few tweaks more, if you so choose.
 
-## Qwickly *(full)*
+## Qwickly
 
 Final tweak rotate-swap letters: `K`->`Y`->`P`<br/>
 and swap letters: `J`<->`B`
