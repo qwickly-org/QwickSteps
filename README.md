@@ -63,7 +63,7 @@ Taking this design to its logical conclusion we can add a few tweaks more, if yo
 Final tweak rotate-swap letters: `K`->`Y`->`P`<br/>
 and swap letters: `J`<->`B`
 ```
- Q   W  <U> [D] (F) [K] (Y) [P] (L) (;)  [   ]   \
+ Q   W  <U> [D] (F) [K] [L] [P] [Y] (;)  [   ]   \
 
   A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
 
