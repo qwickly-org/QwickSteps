@@ -76,7 +76,7 @@ Legend
 
 ## Qwickly (Niro)
 
-Alternative to **Qwickly (full)** also swap letters: `R`<->`O` <br/>
+Alternative to **Qwickly** also swap letters: `R`<->`O` <br/>
 This layout is often a bit faster than Quickly but have to learn new `O` finger/position.
 ```
  Q   W  <U> [D] (F) [K] (Y) [P] (L) (;)  [   ]   \
