@@ -5,15 +5,21 @@ Easier to learn than Minimak, faster than Dvorak, and your shortcuts (mostly) st
 An installer for all macOS/OS X versions is available: [download Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)<br/>
 Created using [Ukelele software](https://software.sil.org/ukelele).
 
+Installers for Windows (64-bit):
+- [download Qwickly_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly_amd64.msi)
+- [download Qwickly1_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly1_amd64.msi)
+- [download Qwickly2_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly2_amd64.msi)
+- [download QwicklyN_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/QwicklyN_amd64.msi)
+
+Created using Microsoft Keyboard Layout Creator v1.4.
+
+
 ## Qwickly I
 
 Swap frequently occuring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
-with letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`<br/>
-We use `-`, `=` more than `[`, `]` so swap them too.
+with letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`
 ```
-1   2   3   4   5   6   7   8   9   0  ([) (])  bksp
-
- Q   W  (D)  R  (F)  Y   U  (K) (L) (;) (-) (=)  \
+ Q   W  (D)  R  (F)  Y   U  (K) (L) (;)  [   ]   \
 
   A   S  (E) (T)  G   H  (N) (I) (O) (P)  '   enter
 
@@ -29,9 +35,7 @@ Legend
 Reduced finger travel for other frequently occuring letters: `R`, `U`<br/>
 rotate-swap with letters: `D`, `P`
 ```
-1   2   3   4   5   6   7   8   9   0  ([) (])  bksp
-
- Q   W  <U> [D] (F)  Y  [P] (K) (L) (;) (-) (=)  \
+ Q   W  <U> [D] (F)  Y  [P] (K) (L) (;)  [   ]   \
 
   A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
 
@@ -54,9 +58,7 @@ Taking this design to its logical conclusion we can add a few tweaks more, if yo
 Final tweak rotate-swap letters: `K`->`Y`->`P`<br/>
 and swap letters: `J`<->`B`
 ```
-1   2   3   4   5   6   7   8   9   0  ([) (])  bksp
-
- Q   W  <U> [D] (F) [K] (Y) [P] (L) (;) (-) (=)  \
+ Q   W  <U> [D] (F) [K] (Y) [P] (L) (;)  [   ]   \
 
   A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
 
@@ -75,9 +77,7 @@ Legend
 Alternative to **Qwickly (full)** also swap letters: `R`<->`O` <br/>
 This layout is often a bit faster than Quickly but have to learn new `O` finger/position.
 ```
-1   2   3   4   5   6   7   8   9   0  ([) (])  bksp
-
- Q   W  <U> [D] (F) [K] (Y) [P] (L) (;) (-) (=)  \
+ Q   W  <U> [D] (F) [K] (Y) [P] (L) (;)  [   ]   \
 
   A   S  (E) (T)  G   H  (N) (I) <R> [O]  '   enter
 
@@ -90,7 +90,6 @@ Legend
 { } either same-finger/other-hand as QWERTY (depending on your typing style)
 < > other hand than QWERTY
 ```
-
 
 Benchmarks
 ```
