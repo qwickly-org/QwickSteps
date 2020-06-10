@@ -15,6 +15,9 @@ Created using [Ukelele software](https://software.sil.org/ukelele).
 
 Created using Microsoft Keyboard Layout Creator v1.4.
 
+### Installers for Linux
+- in development (stay tuned)
+
 
 ## Qwickly I
 
