@@ -119,7 +119,7 @@ Benchmarks
     Game       38.86    40.10     35.35     34.56     36.04
 ```
 
-Clearly Colemak stands out as expected. Looks like Qwickly edges out Asset.<jd/>
+Colemak looks like the winner but not clearly so--Qwickly goes head-to-head with it.<jd/>
 Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
 
 My goal was to make something easier to learn than the existing layouts with key changes to stay closeby so I wouldn't have much trouble relearning shortcuts.
