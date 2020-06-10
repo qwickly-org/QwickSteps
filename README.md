@@ -2,10 +2,12 @@
 
 Easier to learn than Minimak, faster than Dvorak, and your shortcuts (mostly) stay put.
 
-An installer for all macOS/OS X versions is available: [download Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)<br/>
+### Installer for all macOS/OS X versions
+- [download Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)
+
 Created using [Ukelele software](https://software.sil.org/ukelele).
 
-Installers for Windows (64-bit):
+### Installers for Windows (64-bit)
 - [download Qwickly_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly_amd64.msi)
 - [download Qwickly1_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly1_amd64.msi)
 - [download Qwickly2_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly2_amd64.msi)
