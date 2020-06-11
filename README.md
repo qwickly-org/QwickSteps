@@ -53,10 +53,9 @@ Legend
 < > other hand than QWERTY
 ```
 
-You can just stop right here as huge gains have been made over QWERTY.
-In fact this is at the level of Dvorak or Asset layouts (give and take) when compared on https://stevep99.github.io/keyboard-layout-analyzer test inputs.
+This is at the level of Dvorak or Asset layouts (give and take) when compared on https://stevep99.github.io/keyboard-layout-analyzer test inputs.
 
-Taking this design to its logical conclusion we can add a few tweaks more, if you so choose.
+Taking this design to its logical conclusion we can add a few tweaks more.
 
 ## Qwickly
 
