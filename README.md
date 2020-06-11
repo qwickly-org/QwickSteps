@@ -121,7 +121,7 @@ Benchmarks
 ```
 ^ fastest
 
-Colemak looks like the winner but not clearly so--Qwickly goes head-to-head with it.<jd/>
+Colemak looks like a winner but not clearly so--Qwickly goes head-to-head with it.<jd/>
 Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
 
 My goal was to make something easier to learn than the existing layouts with key changes to stay closeby so I wouldn't have much trouble relearning shortcuts.
