@@ -21,8 +21,12 @@ Created using Microsoft Keyboard Layout Creator v1.4.
 
 ## Qwickly I
 
+Let's get the 8 most frequently occurring letters in home finger positions. `A` and `S` are already there.
+
 Swap frequently occuring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
 with letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`
+
+*(`R` occurs more than `P` but we'll get this in the next step.)*
 ```
  Q   W  (D)  R  (F)  Y   U  (K) (L) (;)  [   ]   \
 
@@ -37,8 +41,10 @@ Legend
 
 ## Qwickly II
 
-Reduced finger travel for other frequently occuring letters: `R`, `U`<br/>
-rotate-swap with letters: `D`, `P`
+The next frequently occurring letters `D`, `H`, and `L` are already in close positions.
+
+Reduce finger travel for other frequently occuring letters: `R`, `U`<br/>
+rotate-swap with letters: `D`, `P` *(We move `D` for `U` because it works out better in the end)*
 ```
  Q   W  <U> [D] (F)  Y  [P] (K) (L) (;)  [   ]   \
 
@@ -53,11 +59,14 @@ Legend
 < > other hand than QWERTY
 ```
 
-This is at the level of Dvorak or Asset layouts (give and take) when compared on https://stevep99.github.io/keyboard-layout-analyzer test inputs.
+This is near the efficiency of Dvorak or Asset layouts when compared on https://stevep99.github.io/keyboard-layout-analyzer test inputs.
 
-Taking this design to its logical conclusion we can add a few tweaks more.
+Taking this design to its logical conclusion we can add a few more tweaks.
 
 ## Qwickly
+
+`K` occurs less than `L`/`P`/`Y`. The ordering `L`/`P`/`Y` minimizes same-finger [bigrams](https://blogs.sas.com/content/iml/2014/09/26/bigrams.html).
+`B` occurs more than `J`.
 
 Final tweak rotate-swap letters: `K`/`L`<- , ->`P`/`Y`<br/>
 and swap letters: `J`<->`B`
@@ -74,12 +83,15 @@ Legend
 [ ] same hand as QWERTY
 < > other hand than QWERTY
 ```
+*(This is the layout I am using (with possible punctuation tweaks for coding.)*
 
 ## Qwickly (Niro)
 
 Alternative to **Qwickly** instead rotate-swap letters: `K`/`P`/`Y`<br/>
 and swap letters: `J`<->`B` and `R`<->`O`<br/>
 This layout is often a touch faster than Quickly but have to learn new `O` finger/position.
+
+*(Personally, I feel moving `O` goes against the spirit of 'easy to learn' for a smallish gain.)*
 ```
  Q   W  <U> [D] (F) [K] [P] [Y] (L) (;)  [   ]   \
 
