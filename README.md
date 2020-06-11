@@ -87,7 +87,7 @@ Note to `vi`/`vim` users: `J` is below `K` and `H` left of `L`.
 
 Benchmarks on https://stevep99.github.io/keyboard-layout-analyzer
 ```
-              Colemak  Qwickly   S.Dvorak   Asset  Minimak-12
+              Colemak  Qwickly   S.Dvorak   Asset   Minimak-12
 
    Alice       66.61    67.13^    63.71     64.29     62.45
    Common      73.94^   72.62     66.82     66.53     65.58
