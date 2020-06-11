@@ -86,13 +86,12 @@ This layout is often a touch faster than Quickly but have to learn new `O` finge
 
   A   S  (E) (T)  G   H  (N) (I) <R> [O]  '   enter
 
-   Z   X   C   V  {J}  {B}  M   ,   .   /
+   Z   X   C   V  <J>  <B>  M   ,   .   /
 
 Legend
     same as QWERTY
 ( ) same finger as QWERTY
 [ ] same hand as QWERTY
-{ } either same-finger/other-hand as QWERTY (depending on your typing style)
 < > other hand than QWERTY
 ```
 
