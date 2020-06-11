@@ -37,7 +37,7 @@ Legend
     same as QWERTY
 ( ) same finger as QWERTY
 ```
-The keys `ASET GH NIOP` uses the same finger muscle-memory from QWERTY, just not moving fingers off the home-row.<br/>
+The keys `ASET GH NIOP` uses the same muscle-memory from QWERTY, just not moving fingers off the home-row.<br/>
 With this layout, you will often miss `DF JKL` but that's okay since the letter you want is just above/below the miss.<br/>
 We are mostly learning the home row. Switch to **Qwickly II** as soon as you can handle it.
 
