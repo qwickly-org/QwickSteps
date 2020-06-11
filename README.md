@@ -61,7 +61,6 @@ Legend
 < > other hand than QWERTY
 ```
 
-This is near the efficiency of Dvorak or Asset layouts.<br/>
 Here we're trying to learn the new `U`, `D` and `R` positions.<br/>
 `K`/`I` and `L`/`O` bigrams will be awkward as it's same fingers like QWERTY but 'upside-down'.<br/>
 Switch to **Qwickly** as soon as you can handle it. You can even try going directly from **Qwickly I** to **Qwickly**.
