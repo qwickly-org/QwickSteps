@@ -44,7 +44,7 @@ Legend
 The next frequently occurring letters `D`, `H`, and `L` are already in close positions.
 
 Reduce finger travel for other frequently occuring letters: `R`, `U`<br/>
-rotate-swap with letters: `D`, `P` *(We move `D` for `U` because it works out better in the end)*
+rotate-swap with letters: `D`, `P` *(We move `D` for `U` because it works out better in the end.)*
 ```
  Q   W  <U> [D] (F)  Y  [P] (K) (L) (;)  [   ]   \
 
@@ -83,7 +83,7 @@ Legend
 [ ] same hand as QWERTY
 < > other hand than QWERTY
 ```
-*(This is the layout I am using (with possible punctuation tweaks for coding.)*
+*(This is the layout I am using (with possible punctuation tweaks for coding. Added because people will ask.)*
 
 ## Qwickly (Niro)
 
