@@ -37,6 +37,9 @@ Legend
     same as QWERTY
 ( ) same finger as QWERTY
 ```
+The keys `ASET GH NIOP` uses the same finger muscle-memory from QWERTY, just not moving fingers off the home-row.<br/>
+With this layout, you will often miss `DF JKL` but that's okay since the letter you want is just above/below the miss.<br/>
+We are mostly learning the home row. Switch to **Qwickly II** as soon as you can handle it.
 
 ## Qwickly II
 
@@ -58,9 +61,10 @@ Legend
 < > other hand than QWERTY
 ```
 
-This is near the efficiency of Dvorak or Asset layouts when compared on https://stevep99.github.io/keyboard-layout-analyzer test inputs.
-
-Taking this design to its logical conclusion we can add a few more tweaks.
+This is near the efficiency of Dvorak or Asset layouts.<br/>
+Here we're trying to learn the new `U`, `D` and `R` positions.<br/>
+`K`/`I` and `L`/`O` bigrams will be awkward as it's same fingers like QWERTY but 'upside-down'.<br/>
+Switch to **Qwickly** as soon as you can handle it. You can even try going directly from **Qwickly I** to **Qwickly**.
 
 ## Qwickly
 
