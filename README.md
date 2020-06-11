@@ -20,7 +20,7 @@ Created using Microsoft Keyboard Layout Creator v1.4.
 
 ## Qwickly I
 
-Let's get the 8 most frequently occurring letters in home finger positions. `A` and `S` are already there.
+Let's get the 8 most [frequently occurring letters](https://en.wikipedia.org/wiki/Letter_frequency) in home finger positions. `A` and `S` are already there.
 
 Swap frequently occuring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
 with letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`
