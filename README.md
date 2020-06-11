@@ -25,7 +25,7 @@ Let's get the 8 most [frequently occurring letters](https://en.wikipedia.org/wik
 Swap frequently occuring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
 with letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`
 
-*(`R` occurs more than `P` but we'll get this in the next step.)*
+*(`R` occurs more than `P` but we'll get it in the next step.)*
 ```
  Q   W  (D)  R  (F)  Y   U  (K) (L) (;)  [   ]   \
 
