@@ -66,7 +66,7 @@ Taking this design to its logical conclusion we can add a few more tweaks.
 ## Qwickly
 
 `K` occurs less than `L`/`P`/`Y`. The ordering `L`/`P`/`Y` minimizes same-finger [bigrams](https://blogs.sas.com/content/iml/2014/09/26/bigrams.html).<br/>
-`B` occurs more than `J`.
+`J` occurs less than `B`.
 
 Final tweak rotate-swap letters: `K`/`L`<- , ->`P`/`Y`<br/>
 and swap letters: `J`<->`B`
