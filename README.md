@@ -70,7 +70,7 @@ Switch to **Qwickly** as soon as you can handle it. You can even try going direc
 `K` occurs less than `L`/`P`/`Y`. The ordering `L`/`P`/`Y` minimizes same-finger [bigrams](https://blogs.sas.com/content/iml/2014/09/26/bigrams.html).<br/>
 `J` occurs less than `B`.
 
-As it turns oet, it's easier to learn new key positions that are two fingers away than one away.
+As it turns out, it's easier to learn new key positions that are two fingers away than one away.
 
 Final tweak rotate-swap letters: `K`/`L`<- , ->`P`/`Y`<br/>
 and swap letters: `J`<->`B`
