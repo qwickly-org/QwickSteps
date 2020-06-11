@@ -83,7 +83,7 @@ Legend
 [ ] same hand as QWERTY
 < > other hand than QWERTY
 ```
-*(This is the layout I am using (with possible punctuation tweaks for coding. Added because people will ask.)*
+*(This is the layout I am using (with possible punctuation tweaks for coding.)*
 
 ## Qwickly (Niro)
 
@@ -91,7 +91,7 @@ Alternative to **Qwickly** instead rotate-swap letters: `K`/`P`/`Y`<br/>
 and swap letters: `J`<->`B` and `R`<->`O`<br/>
 This layout is often a touch faster than Quickly but have to learn new `O` finger/position.
 
-*(Personally, I feel moving `O` goes against the spirit of 'easy to learn' for a smallish gain.)*
+*(Personally, I feel moving `O` goes against the spirit of 'easy to learn' for a smallish gain. Added because people will ask.)*
 ```
  Q   W  <U> [D] (F) [K] [P] [Y] (L) (;)  [   ]   \
 
