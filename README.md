@@ -85,27 +85,6 @@ Legend
 ```
 Note to `vi`/`vim` users: `J` is below `K` and `H` left of `L`.
 
-## Qwickly (Niro)
-
-Alternative to **Qwickly** instead rotate-swap letters: `K`/`P`/`Y`<br/>
-and swap letters: `J`<->`B` and `R`<->`O`<br/>
-This layout is often a touch faster than Quickly but have to learn new `O` finger/position.
-
-*(Personally, I feel moving `O` goes against the spirit of 'easy to learn' for a smallish gain. Added because people will ask.)*
-```
- Q   W  <U> [D] (F) [K] [P] [Y] (L) (;)  [   ]   \
-
-  A   S  (E) (T)  G   H  (N) (I) <R> [O]  '   enter
-
-   Z   X   C   V  <J>  <B>  M   ,   .   /
-
-Legend
-    same as QWERTY
-( ) same finger as QWERTY
-[ ] same hand as QWERTY
-< > other hand than QWERTY
-```
-
 Benchmarks
 ```
               Colemak  Qwickly  S.Dvorak  Minimak-12  Asset
