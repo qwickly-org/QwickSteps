@@ -85,7 +85,7 @@ Legend
 ```
 Note to `vi`/`vim` users: `J` is below `K` and `H` left of `L`.
 
-Benchmarks
+Benchmarks on https://stevep99.github.io/keyboard-layout-analyzer
 ```
               Colemak   Qwickly   S.Dvorak   Asset  Minimak-12
 
