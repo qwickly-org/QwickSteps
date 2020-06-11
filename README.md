@@ -83,7 +83,7 @@ Legend
 [ ] same hand as QWERTY
 < > other hand than QWERTY
 ```
-*(This is the layout I am using (with possible punctuation tweaks for coding.)*
+Note to `vi`/`vim` users: `J` is below `K` and `H` left of `L`.
 
 ## Qwickly (Niro)
 
