@@ -3,7 +3,7 @@
 Easier to learn than Minimak, faster than Dvorak, and your shortcuts (mostly) stay put.
 
 ### Installer for all macOS/OS X versions
-- Qwickly with I, II, and Qwickly (Niro) [Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)
+- Qwickly (includes I and II) [Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)
 
 Created using [Ukelele software](https://software.sil.org/ukelele).
 
@@ -11,7 +11,6 @@ Created using [Ukelele software](https://software.sil.org/ukelele).
 - Qwickly [Qwickly_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly_amd64.msi)
 - Qwickly I [Qwickly1_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly1_amd64.msi)
 - Qwickly II [Qwickly2_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly2_amd64.msi)
-- Qwickly (Niro) [QwicklyN_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/QwicklyN_amd64.msi)
 
 Created using Microsoft Keyboard Layout Creator v1.4.
 
