@@ -88,6 +88,14 @@ Legend
 < > other hand than QWERTY
 ```
 
+There's some evidence that reusing muscle-memory for home row keys works.<br/>
+Notice which keys are more quickly typed than others.
+
+![wpm per letter](https://github.com/qwickly-org/Qwickly/blob/master/wpm-letters-day5.png)
+
+![wpm progress days 2 through 5](https://github.com/qwickly-org/Qwickly/blob/master/wpm-days-2-5.png)
+
+
 **Benchmarks** on https://stevep99.github.io/keyboard-layout-analyzer
 <pre><code>
               Colemak  Qwickly   S.Dvorak   Asset   Minimak-12
