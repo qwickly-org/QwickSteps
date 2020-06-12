@@ -110,7 +110,7 @@ Legend
    Lorem       57.06    <b>57.32</b>     51.61     54.55     48.29
    Game        38.86    <b>40.10</b>     35.35     36.04     34.56
 </code></pre>
-**bold** = fastest
+**bold** = best score
 
 Colemak looks like a winner but not clearly so--Qwickly goes head-to-head with it.<br/>
 Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
