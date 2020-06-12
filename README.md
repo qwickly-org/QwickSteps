@@ -88,10 +88,10 @@ Legend
 < > other hand than QWERTY
 ```
 
+### WPM per letter on day 5
+
 There's some evidence that reusing muscle-memory for home row keys works.<br/>
 Notice which keys are more quickly typed than others.
-
-### WPM per letter on day 5
 
 ![wpm per letter](https://github.com/qwickly-org/Qwickly/blob/master/wpm-letters-day5.png)
 
