@@ -22,7 +22,7 @@ Created using Microsoft Keyboard Layout Creator v1.4.
 
 Let's get the 8 most [frequently occurring letters](https://en.wikipedia.org/wiki/Letter_frequency) in home finger positions. `A` and `S` are already there.
 
-Swap frequently occuring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
+Swap frequently occurring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
 with letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`
 
 *(`R` occurs more than `P` but we'll get it in the next step.)*
@@ -45,7 +45,7 @@ We are mostly learning the home row. Switch to **Qwickly II** as soon as you can
 
 The next frequently occurring letters `D`, `H`, and `L` are already in close positions.
 
-Reduce finger travel for other frequently occuring letters: `R`, `U`<br/>
+Reduce finger travel for other frequently occurring letters: `R`, `U`<br/>
 rotate-swap with letters: `D`, `P` *(We move `D` for `U` because it works out better in the end.)*
 ```
  Q   W  <U> [D] (F)  Y  [P] (K) (L) (;)  [   ]   \
