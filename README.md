@@ -97,6 +97,8 @@ Notice which keys are more quickly typed than others.
 
 ### WPM progress day 2 to 5
 
+Day 1 started at ~15 wpm after about an hour of practice.
+
 ![wpm progress days 2 through 5](https://github.com/qwickly-org/Qwickly/blob/master/wpm-days-2-5.png)
 
 
