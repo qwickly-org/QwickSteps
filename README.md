@@ -106,27 +106,27 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
 <pre><code>
               Colemak  Qwickly   S.Dvorak   Asset   Minimak-12
 
-   Alice       66.61    <b>67.13</b>     63.71     64.29     62.45
-   Common      <b>73.94</b>    72.62     66.82     66.53     65.58
-   S.A.T.      <b>73.11</b>    71.36     64.26     65.52     63.21
-   Magna       68.09    <b>68.64</b>     65.08     64.27     62.41
-   1984        67.47    <b>67.80</b>     65.25     64.44     62.04
-   Tarzan      68.38    <b>68.70</b>     65.43     64.22     62.07
-   Jungle      63.98    <b>64.71</b>     61.22     61.24     57.55
-   Difficult   67.97    <b>68.14</b>     63.82     61.63     60.34
-   Medical     <b>72.76</b>    69.55     61.49     58.50     60.74
-   Quotes      <b>54.50</b>    53.66     46.74     51.61     49.92
-   Tao         <b>61.61</b>    60.25     58.68     58.37     56.35
-   Bigrams     <b>72.68</b>    72.26     68.24     70.18     69.10
-   Cost        58.11    <b>58.60</b>     50.78     54.84     52.93
-   Contract    <b>57.38</b>    54.39     47.38     52.70     49.73
-   Binary      <b>59.05</b>    57.67     54.23     52.70     51.51
-   Lorem       57.06    <b>57.32</b>     51.61     54.55     48.29
-   Game        38.86    <b>40.10</b>     35.35     36.04     34.56
+   Alice       66.61    <b>67.12</b>     63.71     64.29     62.45
+   Common      <b>73.94</b>    72.81     66.82     66.53     65.58
+   S.A.T.      <b>73.11</b>    71.93     64.26     65.52     63.21
+   Magna       <b>68.09</b>    68.07     65.08     64.27     62.41
+   1984        <b>67.47</b>    67.27     65.25     64.44     62.04
+   Tarzan      <b>68.38</b>    68.32     65.43     64.22     62.07
+   Jungle      63.98    <b>64.73</b>     61.22     61.24     57.55
+   Difficult   67.97    <b>68.59</b>     63.82     61.63     60.34
+   Medical     <b>72.76</b>    69.26     61.49     58.50     60.74
+   Quotes      <b>54.50</b>    53.53     46.74     51.61     49.92
+   Tao         <b>61.61</b>    59.94     58.68     58.37     56.35
+   Bigrams     <b>72.68</b>    72.08     68.24     70.18     69.10
+   Cost        58.11    <b>58.95</b>     50.78     54.84     52.93
+   Contract    <b>57.38</b>    54.63     47.38     52.70     49.73
+   Binary      <b>59.05</b>    57.74     54.23     52.70     51.51
+   Lorem       57.06    <b>57.23</b>     51.61     54.55     48.29
+   Game        38.86    <b>40.35</b>     35.35     36.04     34.56
 </code></pre>
 **bold** = best score
 
-Colemak looks like a winner but not clearly so--Qwickly goes head-to-head with it.<br/>
+Colemak looks like a winner but not clearly so--Qwickly gives it some good competition.<br/>
 Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
 
-My goal was to make something easier to learn than the existing layouts with key changes to stay closeby so I wouldn't have much trouble relearning shortcuts.
+My goal was to make something easier to learn than any of the existing layouts with local key changes to ease relearning shortcuts.
