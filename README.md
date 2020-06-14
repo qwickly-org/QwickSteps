@@ -97,7 +97,7 @@ Notice which letters are more/less quickly typed than others.
 
 Day 1 started at ~15 wpm after about an hour of practice.
 
-![wpm progress days 2 through 5](https://github.com/qwickly-org/Qwickly/blob/master/wpm-days-2-5.png)
+![wpm progress days 2 through 5](https://github.com/qwickly-org/Qwickly/blob/master/wpm-days-2-6.png)
 
 
 ### Benchmarks
