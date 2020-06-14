@@ -72,14 +72,13 @@ Switch to **Qwickly** as soon as you can handle it. You can even try going direc
 
 As it turns out, it's easier to learn new key positions that are two fingers away than one away.
 
-Final tweak rotate-swap letters: `K`/`L`<- , ->`P`/`Y`<br/>
-and swap letters: `J`<->`B`
+Final tweak rotate-swap letters: `J`/`L`/`P`/`Y`/`K`.
 ```
- Q   W  <U> [D] (F) [K] [L] [P] [Y] (;)  [   ]   \
+ Q   W  <U> [D] (F) (J) [L] [P] [Y] (;)  [   ]   \
 
   A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
 
-   Z   X   C   V  <J>  <B>  M   ,   .   /
+   Z   X   C   V   B   [K]  M   ,   .   /
 
 Legend
     same as QWERTY
