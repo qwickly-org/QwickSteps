@@ -93,11 +93,11 @@ Notice which letters are more/less quickly typed than others.
 
 ![wpm per letter](https://github.com/qwickly-org/Qwickly/blob/master/wpm-letters-day-6.png)
 
-### WPM progress day 2 to 5
+### WPM progress day 2 to 6
 
 Day 1 started at ~15 wpm after about an hour of practice.
 
-![wpm progress days 2 through 5](https://github.com/qwickly-org/Qwickly/blob/master/wpm-days-2-5.png)
+![wpm progress days 2 through 6](https://github.com/qwickly-org/Qwickly/blob/master/wpm-days-2-6.png)
 
 
 ### Benchmarks
