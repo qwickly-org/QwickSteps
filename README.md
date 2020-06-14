@@ -67,8 +67,9 @@ Switch to **Qwickly** as soon as you can handle it. You can even try going direc
 
 ## Qwickly
 
-`K` occurs less than `L`/`P`/`Y`. The ordering `L`/`P`/`Y` minimizes same-finger [bigrams](https://blogs.sas.com/content/iml/2014/09/26/bigrams.html).<br/>
-`J` occurs less than `B`.
+`J` is an infrequently occurring letter so it can be farther away.<br/>
+`L` is frequently occurring so use a strong finger with the ordering `L`/`P`/`Y` to minimize same-finger [bigrams](https://blogs.sas.com/content/iml/2014/09/26/bigrams.html).<br/>
+`K` occurs more than `J` so keep it closer.
 
 As it turns out, it's easier to learn new key positions that are two fingers away than one away.
 
