@@ -126,7 +126,8 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
 </code></pre>
 **bold** = best score
 
-Colemak looks like a winner but not clearly so--Qwickly gives it some good competition.<br/>
+Colemak is the winner but Qwickly gives it some good competition.<br/>
 Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
 
-My goal was to make something easier to learn than any of the existing layouts with local key changes to ease relearning shortcuts.
+The goal was to make an ergonomic/efficient layout that's easier to learn than any of the existing ones.<br/>
+Local key changes also eases relearning shortcuts.
