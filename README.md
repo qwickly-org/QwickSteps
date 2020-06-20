@@ -1,4 +1,4 @@
-# Qwickly - The 'quick to learn/type' Keyboard Layout
+# Qwickly - "quick to learn, quick to type" Keyboard Layout
 
 Easier to learn than Minimak, faster than Dvorak, and your shortcuts (mostly) stay put.
 
