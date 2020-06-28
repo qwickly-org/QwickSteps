@@ -105,6 +105,9 @@ Day 1 started at ~15 wpm after about an hour of practice.
 ### Benchmarks
 
 Using https://stevep99.github.io/keyboard-layout-analyzer
+
+![Qwickly keyboard layout configuration](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
+
 <pre><code>
               Colemak  Qwickly    Niro    S.Dvorak   Asset   Minimak-12
 
