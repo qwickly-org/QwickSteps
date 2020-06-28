@@ -131,7 +131,7 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
 </code></pre>
 **bold** = best score
 
-Colemak is fastest with Qwickly giving it some good competition.<br/>
+Colemak is fastest with Qwickly giving it some light competition.<br/>
 Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
 
 The goal was to make an ergonomic/efficient layout that's easier to learn than any of the existing ones.<br/>
