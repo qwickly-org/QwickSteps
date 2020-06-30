@@ -125,8 +125,6 @@ Legend
 
 Using https://stevep99.github.io/keyboard-layout-analyzer
 
-![Qwickly keyboard layout configuration](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
-
 <pre><code>
               Colemak  Qwickly-BF Qwickly    Niro     S.Dvorak   Asset   Minimak-12
 
@@ -155,3 +153,9 @@ Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
 
 The goal was to make an ergonomic/efficient layout that's easier to learn than any of the existing ones.<br/>
 Local key changes also eases relearning shortcuts.
+
+#### Qwickly
+![Qwickly keyboard layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
+
+#### Qwickly (Mod BF)
+![Qwickly Mod-BF keyboard layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly-BF.png)
