@@ -104,9 +104,9 @@ Day 1 started at ~15 wpm after about an hour of practice.
 
 ## Qwickly (Mod BF)
 
-For some people (including myself) reaching the 'F' that was moved above 'G' is noticeably farther/slower than reaching the key below 'T'. We can bring the 'F' as well as 'B' closer which both occur more frequently than 'V'. Rather than push 'V' away we can move 'Z' as it's among the least frequently occuring letters.
+For some people (including myself) reaching the `F` that was moved above `G` is noticeably farther/slower than reaching the key below `T`. We can bring the `F` as well as `B` closer which both occur more frequently than `V`. Rather than push `V` away we can move `Z` as it's among the least frequently occuring letters.
 
-This layout should only be used by those where reaching the lower-row 'F' position is very noticebly easier than the upper-row position *AND* do not mind the very annoying repositioning of the 'V' key used for the paste shortcut Cmd/Ctrl+V.
+This layout should only be used by those where reaching the lower-row `F` position is very noticebly easier than the upper-row position *AND* do not mind the annoying repositioning of the `X`/`V`/`Z` keys used for cut/paste/undo shortcuts.
 
 ```
  Q   W  <U> [D] (B) (J) [L] [P] [Y] (;)  [   ]   \
