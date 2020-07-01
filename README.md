@@ -11,6 +11,7 @@ Created using [Ukelele software](https://software.sil.org/ukelele).
 
 ### Installers for Windows (64-bit)
 - Qwickly [Qwickly_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly_amd64.msi)
+- Qwickly (Mod BF) [QwicklyM_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/QwicklyM_amd64.msi)
 - Qwickly I [Qwickly1_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly1_amd64.msi)
 - Qwickly II [Qwickly2_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly2_amd64.msi)
 
