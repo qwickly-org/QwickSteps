@@ -149,7 +149,8 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
 </code></pre>
 **bold*** = best score
 
-Qwickly-BF takes 10 wins, Colemak takes 5, with Qwickly and Niro taking 1 win each. Qwickly is head-to-head (10 to 7) with Niro.<br/>
+Qwickly-BF takes 10 wins, Colemak takes 5, with Qwickly and Niro taking 1 win each.<br/>
+Qwickly is head-to-head (10 to 7) with Niro.<br/>
 Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
 
 The goal was to make an ergonomic/efficient layout that's easier to learn than any of the existing ones.<br/>
