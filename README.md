@@ -127,29 +127,29 @@ Legend
 Using https://stevep99.github.io/keyboard-layout-analyzer
 
 <pre><code>
-              Colemak  Qwickly-BF Qwickly    Niro     S.Dvorak   Asset   Minimak-12
+              Colemak  Qwickly-PF Qwickly    Niro     S.Dvorak   Asset   Minimak-12
 
-   Alice       66.61     <b>67.81</b>*    67.20     67.28     63.71     64.29     62.45
-   Common      <b>73.94</b>*    73.65     73.11     72.84     66.82     66.53     65.58
-   S.A.T.      73.11     <b>73.72</b>*    72.66     72.00     64.26     65.52     63.21
-   Magna       68.09     <b>69.01</b>*    68.38     68.07     65.08     64.27     62.41
-   1984        67.47     <b>68.21</b>*    67.45     67.73     65.25     64.44     62.04
-   Tarzan      68.38     <b>69.07</b>*    68.39     68.55     65.43     64.22     62.07
-   Jungle      63.98     <b>65.56</b>*    64.74     64.68     61.22     61.24     57.55
-   Difficult   67.97     <b>69.61</b>*    68.84     68.61     63.82     61.63     60.34
-   Medical     <b>72.76</b>*    70.12     70.34     70.33     61.49     58.50     60.74
-   Quotes      54.50     <b>54.71</b>*    53.75     54.35     46.74     51.61     49.92
-   Tao         <b>61.61</b>*    60.60     60.22     61.11     58.68     58.37     56.35
-   Bigrams     72.68     <b>72.74</b>*    72.20     72.32     68.24     70.18     69.10
-   Cost        58.11     <b>59.40</b>*    58.93     57.85     50.78     54.84     52.93
-   Contract    <b>57.38</b>*    55.29     54.83     53.38     47.38     52.70     49.73
-   Binary      <b>59.05</b>*    58.95     57.80     57.55     54.23     52.70     51.51
-   Lorem       57.06     56.98     56.99     <b>57.83</b>*    51.61     54.55     48.29
-   Game        38.86     38.90     <b>40.50</b>*    39.67     35.35     36.04     34.56
+   Alice       66.61     <b>67.40</b>*    67.20     67.28     63.71     64.29     62.45
+   Common      <b>73.94</b>*    72.93     73.11     72.84     66.82     66.53     65.58
+   S.A.T.      <b>73.11</b>*    71.93     72.66     72.00     64.26     65.52     63.21
+   Magna       68.09     <b>68.55</b>*    68.38     68.07     65.08     64.27     62.41
+   1984        67.47     <b>68.12</b>*    67.45     67.73     65.25     64.44     62.04
+   Tarzan      68.38     <b>68.66</b>*    68.39     68.55     65.43     64.22     62.07
+   Jungle      63.98     64.63     <b>64.74</b>*    64.68     61.22     61.24     57.55
+   Difficult   67.97     68.44     <b>68.84</b>*    68.61     63.82     61.63     60.34
+   Medical     <b>72.76</b>*    71.55     70.34     70.33     61.49     58.50     60.74
+   Quotes      54.50     <b>55.13</b>*    53.75     54.35     46.74     51.61     49.92
+   Tao         61.61     <b>61.96</b>*    60.22     61.11     58.68     58.37     56.35
+   Bigrams     <b>72.68</b>*    72.49     72.20     72.32     68.24     70.18     69.10
+   Cost        58.11     57.80     <b>58.93</b>*    57.85     50.78     54.84     52.93
+   Contract    <b>57.38</b>*    53.37     54.83     53.38     47.38     52.70     49.73
+   Binary      <b>59.05</b>*    57.93     57.80     57.55     54.23     52.70     51.51
+   Lorem       57.06     56.98     57.39     <b>57.83</b>*    51.61     54.55     48.29
+   Game        38.86     39.76     <b>40.50</b>*    39.67     35.35     36.04     34.56
 </code></pre>
 **bold*** = best score
 
-Qwickly-BF takes 10 wins, Colemak takes 5, with Qwickly and Niro taking 1 win each.<br/>
+Colemak takes 6 wins, Qwickly-PF 6, Qwickly 4 wins and Niro 1 win.<br/>
 Qwickly is head-to-head (10 to 7) with Niro.<br/>
 Simplified Dvorak is head-to-head with Asset. Minimak-12 is last.
 
@@ -158,6 +158,9 @@ Local key changes also eases relearning shortcuts.
 
 #### Qwickly
 ![Qwickly keyboard layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
+
+#### Qwickly (Mod PF)
+![Qwickly Mod-PF keyboard layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly-PF.png)
 
 #### Qwickly (Mod BF)
 ![Qwickly Mod-BF keyboard layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly-BF.png)
