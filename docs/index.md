@@ -2,31 +2,16 @@ Easier to learn and faster than Colemak for English writing.
 
 Read the blog [How Qwickly came to be](https://blog.keithkim.org/opensource/making-the-qwickest-keyboard-layout).
 
-### Installer for all macOS/OS X versions
-- Qwickly (includes I and II) [Qwickly.dmg](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly.dmg)
+## Qwickly (step 1)
 
-Created using [Ukelele software](https://software.sil.org/ukelele).
-
-### Installers for Windows (64-bit)
-- Qwickly [Qwickly_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly_amd64.msi)
-- Qwickly (Mod BF) [QwicklyM_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/QwicklyM_amd64.msi)
-- Qwickly I [Qwickly1_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly1_amd64.msi)
-- Qwickly II [Qwickly2_amd64.msi](https://github.com/qwickly-org/Qwickly/releases/download/v1.0/Qwickly2_amd64.msi)
-
-Created using Microsoft Keyboard Layout Creator v1.4.
-
-### Installers for Linux
-- in development (stay tuned)
-
-
-## Qwickly I
+Answers the question "What's the simplest set of key changes to make QWERTY suck less?"
 
 Let's get the 8 most [frequently occurring letters](https://en.wikipedia.org/wiki/Letter_frequency) in home finger positions. `A` and `S` are already there.
 
-Swap frequently occurring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
-with letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`
+Swap the frequently occurring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
+with the letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`.
 
-*(`R` occurs more than `P` but we'll get it in the next step.)*
+*(`R` occurs more than `P` but we'll get it in the next step)*
 ```
  Q   W  (D)  R  (F)  Y   U  (K) (L) (;)  [   ]   \
 
@@ -39,10 +24,12 @@ Legend
 ( ) same finger as QWERTY
 ```
 The keys `ASET GH NIOP` uses the same muscle-memory from QWERTY, just not moving fingers off the home row.<br/>
-With this layout, you will often miss `DF JKL` but that's okay since the letter you want is just above/below the miss.<br/>
-We are mostly learning the home row. Switch to **Qwickly II** as soon as you can handle it.
+With this layout, you will start off missing the `DF JKL` keys but that's okay since the letter you want is just above/below the miss and very easy to find and correct. This ability makes this first step as painless as can be.<br/>
+We are mostly learning the new home row. Switch to **Qwickly (step 2)** as soon as you start getting the hang of step 1.
 
-## Qwickly II
+It turns out that this is not a far fetched idea and [another has already discovered it](https://www.youtube.com/watch?v=9JMhIDGfquU&feature=youtu.be) (youtube) and called it `SwapSix`.
+
+## Qwickly (step 2)
 
 The next frequently occurring letters `D`, `H`, and `L` are already in close positions.
 
