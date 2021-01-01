@@ -36,7 +36,7 @@ Next we want `R` on the home key position and we'll shuffle `O`, `P`, `U`, and `
 ```
  Q   W  <U> (D) ·F·  Y  (P) ·K· ·L· ·;·  [   ]   \
 
-  A   S  ·E· ·T·  G   H  ·N· ·I· <R> ·O·  '   enter
+  A   S  ·E· ·T·  G   H  ·N· ·I· <R> (O)  '   enter
 
    Z   X   C   V   B   ·J·  M   ,   .   /
 
