@@ -52,7 +52,7 @@ Again, switch to **Qwickly** as soon as this layout starts to get comfortable.
 
 ## Qwickly
 
-Qwickly-1 is a solid layout it itself. We are now putting on the finishing touches.
+Qwickly-1 is a solid layout in itself. We are now putting on the finishing touches.
 
 Swap the following letters:
 - `F`, `P`, `H` (rotate 3 keys)
