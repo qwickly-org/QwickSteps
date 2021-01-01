@@ -13,7 +13,7 @@ with the letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`.
 
 *(`R` occurs more than `P` but we'll get it in the next step)*
 ```
- Q   W  ·D·  R  ·F·  Y   U  ·K· ·L· ·;·  [   ]   \
+ Q   W  ·D·  R  ·F·  Y   U  ·K· ·L· ·;·  [   ]
 
   A   S  ·E· ·T·  G   H  ·N· ·I· ·O· ·P·  '          | Legend
                                                      |     same as QWERTY
@@ -30,11 +30,11 @@ It turns out that this is not a far-fetched idea and [another has already discov
 Next we want `R` on the home key position and we'll shuffle `O`, `P`, `U`, and `D` as well. It may not be obvious why these were chosen. It has to do with ultimately reducing finger travel and same finger [bi-grams](https://blogs.sas.com/content/iml/2014/09/26/bigrams.html) which are slower and less comfortable to type.
 
 ```
- Q   W  <U> (D) ·F·  Y  (P) ·K· ·L· ·;·  [   ]   \   | Legend
-                                                     |     same as QWERTY
-  A   S  ·E· ·T·  G   H  ·N· ·I· <R> (O)  '          | · · same finger as QWERTY
-                                                     | ( ) same hand as QWERTY
-   Z   X   C   V   B   ·J·  M   ,   .   /            | < > other hand than QWERTY
+ Q   W  <U> (D) ·F·  Y  (P) ·K· ·L· ·;·  [   ]     | Legend
+                                                   |     same as QWERTY
+  A   S  ·E· ·T·  G   H  ·N· ·I· <R> (O)  '        | · · same finger as QWERTY
+                                                   | ( ) same hand as QWERTY
+   Z   X   C   V   B   ·J·  M   ,   .   /          | < > other hand than QWERTY
 ```
 
 Here we're mainly learning the new `U`/`D` and `R`/`O` positions.<br/>
@@ -51,11 +51,11 @@ Swap the following letters:
 - `,` with `;` (note that the shifted `<` and `:` don't move)
 
 ```
- Q   W  <U> (D) <P> (K) ·H· (Y) ·L· (,)  [   ]   \   | Legend
-                                                     |     same as QWERTY
-  A   S  ·E· ·T·  G  <F> ·N· ·I· <R> (O)  '          | · · same finger as QWERTY
-                                                     | ( ) same hand as QWERTY
-   Z   X   C   V  <J>  <B>  M  (;)  .   /            | < > other hand than QWERTY
+ Q   W  <U> (D) <P> (K) ·H· (Y) ·L· (,)  [   ]     | Legend
+                                                   |     same as QWERTY
+  A   S  ·E· ·T·  G  <F> ·N· ·I· <R> (O)  '        | · · same finger as QWERTY
+                                                   | ( ) same hand as QWERTY
+   Z   X   C   V  <J>  <B>  M  (;)  .   /          | < > other hand than QWERTY
 ```
 
 The main thing to learn is the new placement of `H`/`F`/`P` keys as the other changed keys don't come up as often. Having the comma so close by should be a nice perk.
