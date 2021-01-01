@@ -36,7 +36,7 @@ Next we want `R` on the home key position and we'll shuffle `O`, `P`, `U`, and `
                                                  ( ) same hand as QWERTY
    Z   X   C   V   B   ·J·  M   ,   .   /        < > other hand as QWERTY
 ```
-The ring and index fingers press the `X` and `C` keys, with the middle finger only pressing `U` and `E`. The right hand middle finger does press `,`/`<`.
+The ring and index fingers press the `X` and `C`, with the middle finger only pressing `U` and `E`. The right hand middle finger does press `,`/`<`.
 
 Here we're mainly learning the new `U`/`D` and `R`/`O` positions.<br/>
 Again, switch to **Qwickly** as soon as this layout starts to get comfortable.
