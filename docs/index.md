@@ -15,9 +15,9 @@ with the letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`.
 ```
  Q   W  ·D·  R  ·F·  Y   U  ·K· ·L· ·;·  [   ]
 
-  A   S  ·E· ·T·  G   H  ·N· ·I· ·O· ·P·  '      Legend
-                                                     same as QWERTY
-   Z   X   C   V   B   ·J·  M   ,   .   /        · · same finger as QWERTY
+  A   S  ·E· ·T·  G   H  ·N· ·I· ·O· ·P·  '     Legend
+                                                    same as QWERTY
+   Z   X   C   V   B   ·J·  M   ,   .   /       · · same finger as QWERTY
 ```
 The keys `ASET GH NIOP` uses the same muscle-memory from QWERTY, just not moving fingers off the home row.<br/>
 With this layout, you will start off missing the `DF JKL` keys but that's okay since the letter you want is just above/below the miss and very easy to find and correct. This ability makes this first step as painless as can be.<br/>
@@ -32,9 +32,9 @@ Next we want `R` on the home key position and we'll shuffle `O`, `P`, `U`, and `
 ```
  Q   W  <U> (D) ·F·  Y  (P) ·K· ·L· ·;·  [   ]
 
-  A   S  ·E· ·T·  G   H  ·N· ·I· <R> (O)  '      · · same finger as QWERTY
-                                                 ( ) same hand as QWERTY
-   Z   X   C   V   B   ·J·  M   ,   .   /        < > other hand as QWERTY
+  A   S  ·E· ·T·  G   H  ·N· ·I· <R> (O)  '     · · same finger as QWERTY
+                                                ( ) same hand as QWERTY
+   Z   X   C   V   B   ·J·  M   ,   .   /       < > other hand as QWERTY
 ```
 The ring and index fingers press the `X` and `C`, with the middle finger only pressing `U` and `E`. The right hand middle finger does press `,`/`<`.
 
@@ -54,9 +54,9 @@ Swap the following letters:
 ```
  Q   W  <U> (D) <P> (K) ·H· (Y) ·L· (,)  [   ]
 
-  A   S  ·E· ·T·  G  <F> ·N· ·I· <R> (O)  '      · · same finger as QWERTY
-                                                 ( ) same hand as QWERTY
-   Z   X   C   V  <J>  <B>  M  (;)  .   /        < > other hand as QWERTY
+  A   S  ·E· ·T·  G  <F> ·N· ·I· <R> (O)  '     · · same finger as QWERTY
+                                                ( ) same hand as QWERTY
+   Z   X   C   V  <J>  <B>  M  (;)  .   /       < > other hand as QWERTY
 ```
 
 The main thing to learn is the new placement of `H`/`F`/`P` keys as the other changed keys don't come up as often. Having the comma so close by should be a nice perk.
