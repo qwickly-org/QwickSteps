@@ -1,6 +1,4 @@
-# Qwickly - "quick to learn, quick to type" Keyboard Layout
-
-Easier to learn than Minimak, faster than Dvorak, and your shortcuts (mostly) stay put.
+Easier to learn and faster than Colemak for English writing.
 
 Read the blog [How Qwickly came to be](https://blog.keithkim.org/opensource/making-the-qwickest-keyboard-layout).
 
