@@ -46,7 +46,8 @@ Next we want `R` in a home position and we'll shuffle `O`, `P`, `U`, and `D` as 
 ```
 The ring and index fingers press the `X` and `C`, with the middle finger only pressing `U` and `E`. The right hand middle finger does press `,`/`<`.
 
-Here we're mainly learning the new `U`/`D` and `R`/`O` positions. Again don't mind not fully learning `F` and `P`.<br/>
+Here we're mainly learning the new `U`/`D` and `R`/`O` positions.<br/>
+Again don't mind not fully learning `F` and `P`.<br/>
 Switch to **Qwickly** as soon as this starts to get comfortable.
 
 What's our progress now? Here's the `Qwickly-2` score ranking for "1984" on the [stevep99 keyboard analyzer](https://stevep99.github.io/keyboard-layout-analyzer/#/main):
