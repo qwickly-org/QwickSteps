@@ -31,7 +31,7 @@ How are we doing? Here's the `Qwickly-1 (SwapSix)` score ranking for "1984" on t
 
 ## Qwickly (step 2)
 
-Next we want `R` on the home key position and we'll shuffle `O`, `P`, `U`, and `D` as well. It may not be obvious why these were chosen. It has to do with ultimately reducing finger travel and same finger [bi-grams](https://blogs.sas.com/content/iml/2014/09/26/bigrams.html) which are slower and less comfortable to type.
+Next we want `R` on the home key position and we'll shuffle `O`, `P`, `U`, and `D` as well. It may not be obvious why these were chosen. It has to do with ultimately reducing finger travel and [common English bi-grams](https://en.wikipedia.org/wiki/Bigram#Bigram_frequency_in_the_English_language) on the same finger which are slower and less comfortable to type.
 
 ```
  Q   W  <U> (D) ·F·  Y  (P) ·K· ·L· ·;·  [   ]
