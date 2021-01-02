@@ -1,6 +1,9 @@
-Easier to learn and faster than Colemak for English writing.
+#### Easier to learn and faster than Colemak for English writing.
 
-Read the blog [How Qwickly came to be](https://blog.keithkim.org/opensource/making-the-qwickest-keyboard-layout).
+![Qwickly Layout with colour for each finger's keys](qwickly-layout.png)
+
+
+Read the blog post [How Qwickly came to be](https://blog.keithkim.org/opensource/making-the-qwickest-keyboard-layout) and [part 2](https://blog.keithkim.org/opensource/keyboard-layouts/mtgap-+-colemak-+-soul-+-niro).
 
 ## Qwickly (step 1)
 
@@ -68,9 +71,6 @@ Swap the following letters:
 ```
 
 The main thing to learn is the new placement of `H`/`F`/`P` keys as the other changed keys don't come up as often. Having the comma so close by should be a nice perk.
-
-#### Qwickly Layout with colour for each finger's keys
-![Qwickly Keyboard Layout](qwickly-layout.png)
 
 Here's the final `Qwickly` score ranking for "1984" on the [stevep99 keyboard analyzer](https://stevep99.github.io/keyboard-layout-analyzer/#/main):
 
