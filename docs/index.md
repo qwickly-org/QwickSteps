@@ -44,7 +44,8 @@ Next we want `R` in a home position and we'll shuffle `O`, `P`, `U`, and `D` as 
                                                     | ( ) same hand
    Z   X   C   V   B   ·J·  M   ,   .   /           | < > other hand
 ```
-The ring and index fingers press the `X` and `C`, with the middle finger only pressing `U` and `E`. The right hand middle finger does press `,`/`<`.
+The ring and index fingers press the `X` and `C`, with the middle finger only pressing `U` and `E`.<br/>
+The right hand middle finger does press `,`/`<`.
 
 Here we're mainly learning the new `U`/`D` and `R`/`O` positions.<br/>
 Again don't mind not fully learning `F` and `P`.<br/>
