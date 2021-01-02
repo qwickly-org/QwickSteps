@@ -9,7 +9,7 @@ Read the blog post [How Qwickly came to be](https://blog.keithkim.org/opensource
 
 Answers the question "What's the minimal changes to make QWERTY suck less?"
 
-Let's get the most [frequently occurring letters](https://en.wikipedia.org/wiki/Letter_frequency) in home positions. `A` and `S` are already there.
+Let's get the [frequently occurring letters](https://en.wikipedia.org/wiki/Letter_frequency) in home positions. `A` and `S` are already there.
 
 Swap the frequently occurring letters: `E`, `T`, `N`, `I`, `O`, `P`<br/>
 with the letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`.
@@ -22,9 +22,10 @@ with the letters above or below them: `D`, `F`, `J`, `K`, `L`, `;`.
                                                     |     same as QWERTY
    Z   X   C   V   B   ·J·  M   ,   .   /           | · · on same finger
 ```
-The keys `ASET GH NIOP` uses the same muscle-memory from QWERTY--just not moving fingers off the home row.<br/>
-With this layout, you will start off missing some keys but that's okay since the letter you want is immediatly next to the miss and very easy to correct. This ability makes this first step as painless as can be.<br/>
-he `F` can be tricky but that doesn't much matter as we'll change it soon. Switch to **Qwickly (step 2)** as soon as you're comfortable with the home row.
+The keys `ASET GH NIOP` uses the same muscle-memory from QWERTY--just not moving fingers off the home row. With this layout, you will start off missing some keys but that's okay since the letter you want is immediatly next to the miss and very easy to correct. This ability makes this first step as painless as can be.
+
+The `F` can be tricky but that doesn't much matter as we'll change it soon.<br/>
+Switch to **Qwickly (step 2)** as soon as you're comfortable with the home row.
 
 It turns out that this is not a far-fetched idea and [another has already discovered it](https://www.youtube.com/watch?v=9JMhIDGfquU&feature=youtu.be) (youtube) and called it `SwapSix`.
 
@@ -45,8 +46,8 @@ Next we want `R` in a home position and we'll shuffle `O`, `P`, `U`, and `D` as 
 ```
 The ring and index fingers press the `X` and `C`, with the middle finger only pressing `U` and `E`. The right hand middle finger does press `,`/`<`.
 
-Here we're mainly learning the new `U`/`D` and `R`/`O` positions.<br/>
-Again don't mind not fully learning `F` and `P`, switch to **Qwickly** as soon as this layout starts to get comfortable.
+Here we're mainly learning the new `U`/`D` and `R`/`O` positions. Again don't mind not fully learning `F` and `P`.<br/>
+Switch to **Qwickly** as soon as this starts to get comfortable.
 
 What's our progress now? Here's the `Qwickly-2` score ranking for "1984" on the [stevep99 keyboard analyzer](https://stevep99.github.io/keyboard-layout-analyzer/#/main):
 
