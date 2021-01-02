@@ -25,6 +25,10 @@ We are mostly learning the new home row. Switch to **Qwickly (step 2)** as soon 
 
 It turns out that this is not a far-fetched idea and [another has already discovered it](https://www.youtube.com/watch?v=9JMhIDGfquU&feature=youtu.be) (youtube) and called it `SwapSix`.
 
+How are we doing? Here's the `Qwickly-1 (SwapSix)` score ranking for "1984" on the [stevep99 keyboard analyzer](https://stevep99.github.io/keyboard-layout-analyzer/#/main):
+
+![Scores 57.00 between QWERTY 42.21 and Simplified Dvorak 65.25](score-1984-qwickly-1.png)
+
 ## Qwickly (step 2)
 
 Next we want `R` on the home key position and we'll shuffle `O`, `P`, `U`, and `D` as well. It may not be obvious why these were chosen. It has to do with ultimately reducing finger travel and same finger [bi-grams](https://blogs.sas.com/content/iml/2014/09/26/bigrams.html) which are slower and less comfortable to type.
@@ -40,6 +44,10 @@ The ring and index fingers press the `X` and `C`, with the middle finger only pr
 
 Here we're mainly learning the new `U`/`D` and `R`/`O` positions.<br/>
 Again, switch to **Qwickly** as soon as this layout starts to get comfortable.
+
+What's our progress now? Here's the `Qwickly-2` score ranking for "1984" on the [stevep99 keyboard analyzer](https://stevep99.github.io/keyboard-layout-analyzer/#/main):
+
+![Scores 66.61 between Programmer Dvorak 65.28 and Colemak 67.47](score-1984-qwickly-2.png)
 
 ## Qwickly
 
@@ -60,3 +68,10 @@ Swap the following letters:
 ```
 
 The main thing to learn is the new placement of `H`/`F`/`P` keys as the other changed keys don't come up as often. Having the comma so close by should be a nice perk.
+
+#### Qwickly Layout with colour for each finger's keys
+![Qwickly Keyboard Layout](qwickly-layout.png)
+
+Here's the final `Qwickly` score ranking for "1984" on the [stevep99 keyboard analyzer](https://stevep99.github.io/keyboard-layout-analyzer/#/main):
+
+![Scores 66.61 between Programmer Dvorak 65.28 and Colemak 67.47](score-1984-qwickly.png)
