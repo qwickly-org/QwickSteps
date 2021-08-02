@@ -105,6 +105,10 @@ This is already a really good layout that's better than many that are harder to 
 Trivia: this ends up being a more optimized version of the **NIRO** layout (rotates B-K-J keys).
 In fact this was the original version of **Qwickly** and we could call this the *final* version of **QwickStep**.
 
+In the picture below note which fingers are used for which keys, in particular the left-middle finger is not used for the bottom row.
+
+![QwickStep4 keyboard layout](https://github.com/qwickly-org/QwickSteps/blob/master/QwickStep4.png)
+
 ### WPM per letter on day 6
 
 There's some evidence that reusing muscle-memory for home row keys works.<br/>
@@ -148,6 +152,3 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
 
 **QwickStep4** got tops on 6 of the 10 English prose samples,<br/>
 **Colemak** taking the 3 (Cost/Contract/Binary) Academics, and **Niro** taking The Jungle Book.
-
-#### QwickStep4
-![QwickStep4 keyboard layout](https://github.com/qwickly-org/QwickSteps/blob/master/QwickStep4.png)
