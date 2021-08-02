@@ -146,7 +146,8 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
 **bold name** = prose (English sentences)
 **bold score*** = best score
 
-**QwickStep4** got tops on 6 of the 10 English prose samples, with **Colemak** taking the 3 (Cost/Contract/Binary) Academics, and **Niro** taking The Jungle Book.
+**QwickStep4** got tops on 6 of the 10 English prose samples,<br/>
+**Colemak** taking the 3 (Cost/Contract/Binary) Academics, and **Niro** taking The Jungle Book.
 
 #### QwickStep4
 ![QwickStep4 keyboard layout](https://github.com/qwickly-org/QwickStep/blob/master/QwickStep4.png)
