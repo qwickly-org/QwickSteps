@@ -150,4 +150,4 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
 **Colemak** taking the 3 (Cost/Contract/Binary) Academics, and **Niro** taking The Jungle Book.
 
 #### QwickStep4
-![QwickStep4 keyboard layout](https://github.com/qwickly-org/QwickStep/blob/master/QwickStep4.png)
+![QwickStep4 keyboard layout](https://github.com/qwickly-org/QwickSteps/blob/master/QwickStep4.png)
