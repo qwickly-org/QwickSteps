@@ -4,12 +4,14 @@ Easier to learn than Minimak, faster than Dvorak, and your shortcuts stay put.
 
 Read the blog [How Qwickly came to be](https://blog.keithkim.org/opensource/making-the-qwickest-keyboard-layout).
 
-### Installer for all macOS/OS X versions
+For the full Qwickly layouts (and installers) see the [Qwickly README](https://github.com/qwickly-org/QwickSteps).
+
+### QwickSteps Installer for all macOS/OS X versions
 - QwickSteps [QwickSteps.dmg](https://github.com/qwickly-org/QwickSteps/releases/download/v1.0/QwickSteps.dmg)
 
 Created using [Ukelele software](https://software.sil.org/ukelele).
 
-### Installers for Windows (64-bit)
+### QwickSteps Installers for Windows (64-bit)
 - QwickStep1 [QwickStep1_amd64.msi](https://github.com/qwickly-org/QwickStep/releases/download/v1.0/QwickStep1_amd64.msi)
 - QwickStep2 [QwickStep2_amd64.msi](https://github.com/qwickly-org/QwickStep/releases/download/v1.0/QwickStep2_amd64.msi)
 - QwickStep3 [QwickStep3_amd64.msi](https://github.com/qwickly-org/QwickStep/releases/download/v1.0/QwickStep3_amd64.msi)
