@@ -4,7 +4,7 @@ Easier to learn than Minimak, faster than Dvorak, and your shortcuts stay put.
 
 Read the blog [How Qwickly came to be](https://blog.keithkim.org/opensource/making-the-qwickest-keyboard-layout).
 
-For the full Qwickly layouts (and installers) see the [Qwickly README](https://github.com/qwickly-org/QwickSteps).
+For the full Qwickly layouts (and installers) see the [Qwickly README](https://github.com/qwickly-org/Qwickly).
 
 ### QwickSteps Installer for all macOS/OS X versions
 - QwickSteps [QwickSteps.dmg](https://github.com/qwickly-org/QwickSteps/releases/download/v1.0/QwickSteps.dmg)
