@@ -41,8 +41,11 @@ Legend
 ( ) same finger as QWERTY
 ```
 The keys `ASET GH NIOP` uses the same fingers' muscle-memory from QWERTY, only staying much more frequently on the home row.<br/>
-With this layout, you may often miss `DF JKL` but that's okay since the letter you want is immediately next to the miss it's quick to correct.<br/>
-We are mostly learning the home row. Move on to **QwickStep 2** as soon as you can handle it (sometime before getting fully comfortable).
+With this layout, you may often miss `DF JKL` but that's okay since the letter you want is immediately next to the miss it's super-quick to correct. We are mostly learning the home row, so don't worry too much about the misses.
+
+Even with these same-finger-only changes, if you look at the bottom of the page, you can see how much of an improvement this is over the standard QWERTY layout! Of course you already knew because you could feel how much smoother typing is getting.
+
+Move on to **QwickStep 2** as soon as you can handle it (sometime before getting fully comfortable).
 
 ## QwickStep 2
 
@@ -82,6 +85,10 @@ Legend
 ```
 
 Now we've got most of the keys in their final places or close-by.
+
+Notice that we've kept 7 of the moved keys on the same fingers as QWERTY, 2 on the same hand, and 4 have moved to the opposite hand. Even with only these changes, we're already much better than Simplified Dvorak.
+
+The hardest changes are now behind us, keep practicing.
 Don't get too comfortable, switch to **QwickStep 4** as soon as you can.
 
 ## QwickStep 4
