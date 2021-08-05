@@ -9,6 +9,8 @@ For the full Qwickly layouts (and installers) see the [Qwickly README](https://g
 ### QwickSteps Installer for all macOS/OS X versions
 - QwickSteps [QwickSteps.dmg](https://github.com/qwickly-org/QwickSteps/releases/download/v1.0/QwickSteps.dmg)
 
+See https://github.com/qwickly-org/Qwickly#installation for installation steps and use the [QwickSteps release file](https://github.com/qwickly-org/QwickSteps/releases/tag/qwicksteps-v1.0).
+
 Created using [Ukelele software](https://software.sil.org/ukelele).
 
 ### QwickSteps Installers for Windows (64-bit)
