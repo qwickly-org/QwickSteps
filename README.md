@@ -9,7 +9,7 @@ For the full Qwickly layouts (and installers) see the [Qwickly README](https://g
 ### QwickSteps Installer for all macOS/OS X versions
 - QwickSteps [QwickSteps.dmg](https://github.com/qwickly-org/QwickSteps/releases/download/v1.0/QwickSteps.dmg)
 
-See installation steps listed for [Qwickly](https://github.com/qwickly-org/Qwickly#installation) and download and use the [QwickSteps release](https://github.com/qwickly-org/QwickSteps/releases/tag/qwicksteps-v1.0) (file QwickSteps.dmg).
+See installation steps listed for [Qwickly](https://github.com/qwickly-org/Qwickly#installation) and download and use the [QwickSteps release](https://github.com/qwickly-org/QwickSteps/releases/tag/qwicksteps-v1.0) file QwickSteps.dmg
 
 Created using [Ukelele software](https://software.sil.org/ukelele).
 
