@@ -15,10 +15,10 @@
         "false": -1
     },
     "keyboardType": "standard",
-    "author": "Unknown",
+    "author": "Keith Kim",
     "authorUrl": "",
-    "moreInfoUrl": "http://kennetchaz.github.io/symmetric-typing/niro.html",
-    "moreInfoText": "Symmetric Typing Project - Niro",
+    "moreInfoUrl": "https://github.com/qwickly-org/QwickSteps",
+    "moreInfoText": "",
     "keys": [
         {
             "primary": 96,
