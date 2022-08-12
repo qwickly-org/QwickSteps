@@ -7,7 +7,7 @@ Read the blog [How Qwickly came to be](https://blog.keithkim.org/opensource/maki
 For the full Qwickly layouts (and installers) see the [Qwickly README](https://github.com/qwickly-org/Qwickly).
 
 ### QwickSteps Installer for all macOS/OS X versions
-- QwickSteps [QwickSteps.dmg](https://github.com/qwickly-org/QwickSteps/releases/download/v1.0/QwickSteps.dmg)
+- QwickSteps [QwickSteps.dmg](https://github.com/qwickly-org/QwickSteps/releases/download/qwicksteps-v1.0/QwickSteps.dmg)
 
 See installation steps listed for [Qwickly](https://github.com/qwickly-org/Qwickly#installation) and download and use the [QwickSteps release](https://github.com/qwickly-org/QwickSteps/releases/tag/qwicksteps-v1.0) file QwickSteps.dmg
 
